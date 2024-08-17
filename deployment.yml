@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: devopsteam303/nodejs:unkonwn
+        image: devopsteam303/nodejs:45
         # ports:
         #  - containerPort: 3000
  #number of replication    
