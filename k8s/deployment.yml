@@ -16,7 +16,7 @@ spec:
       containers:
       - name: nodejs
         # image: devopsteam303/nodejs:{{BUILD_NUMBERS}}
-        image: devopsteam303/nodejs:latest
+        image: devopsteam303/testjs:latest
         # ports:
         #  - containerPort: 3000
  #number of replication    
